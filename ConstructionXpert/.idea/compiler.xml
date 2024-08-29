@@ -7,7 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ServiceRessourc" />
+        <module name="resource-server" />
         <module name="ServiceTask" />
         <module name="eureka-server" />
         <module name="ServiceProjets" />
@@ -17,9 +17,9 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ServiceProjets" options="-parameters" />
-      <module name="ServiceRessourc" options="-parameters" />
       <module name="ServiceTask" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
+      <module name="resource-server" options="-parameters" />
     </option>
   </component>
 </project>

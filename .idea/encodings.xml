@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/project-service/project-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/project-service/ticket-service/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConstructionXpert/ServerEureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConstructionXpert/ServiceProjets/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConstructionXpert/ServiceTask/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConstructionXpert/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ConstructionXpert/src/main/resources" charset="UTF-8" />
   </component>
 </project>

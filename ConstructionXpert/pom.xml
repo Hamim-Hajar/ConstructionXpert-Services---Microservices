@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.constructionxpert</groupId>
-    <artifactId>project-service</artifactId>
+    <artifactId>constructionxpert-services</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
@@ -16,11 +16,10 @@
     </parent>
 
     <modules>
-
-        <module>project-service</module>
-        <module>ticket-service</module>
-
-
+        <module>ServerEureka</module>
+        <module>ServiceProjets</module>
+        <module>ServiceTask</module>
+        <module>ServiceRessourc</module>
     </modules>
 
     <properties>

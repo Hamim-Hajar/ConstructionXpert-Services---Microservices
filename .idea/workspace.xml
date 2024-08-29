@@ -4,82 +4,140 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad595db9-ceb3-40e1-b3ac-2e270029209f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="fcac9bbb-efd0-4d31-b4fa-a5bd9f5a5e78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ConstructionXpert-Services---Microservices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServerEureka/src/main/java/com/constructionxpert/eureka/EurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServerEureka/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/src/main/java/com/ConstructionXpert/ServiceProjets/ServiceGestionProjetsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/src/main/java/com/ConstructionXpert/ServiceProjets/service/ProjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/src/test/java/com/ConstructionXpert/ServiceGestionProjets/ServiceGestionProjetsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/src/main/java/com/resource/controller/ResourceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/src/main/java/com/resource/model/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/src/main/java/com/resource/repository/ResourceRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/src/main/java/com/resource/service/ResourceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/src/main/resources/db/migration/V1__Create_Resource_Table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/src/main/java/com/ServiceTask/ServiceTaskApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/src/main/java/com/ServiceTask/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/src/main/java/com/ServiceTask/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/src/main/resources/db/migration/V1__Create_table_task.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/src/test/java/com/ServiceTask/ServiceTaskApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServerEureka/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServerEureka/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServerEureka/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServerEureka/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/src/main/java/com/example/project_service/ProjectServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/src/main/java/com/example/project_service/controller/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/src/main/java/com/ConstructionXpert/ServiceProjets/controller/ProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/src/main/java/com/example/project_service/exception/ProjectNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/src/main/java/com/example/project_service/model/Project.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/src/main/java/com/ConstructionXpert/ServiceProjets/model/Project.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/src/main/java/com/example/project_service/repository/ProjectRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/src/main/java/com/ConstructionXpert/ServiceProjets/repository/ProjectRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/src/main/java/com/example/project_service/service/ProjectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/src/main/resources/create_table_project_V1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/src/main/resources/db/migration/V1__Create_table_project.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/project-service/src/test/java/com/example/project_service/ProjectServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/src/test/java/com/resource/ResourceServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceProjets/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServerEureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/main/java/com/example/ticket_service/TicketServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/src/main/java/com/resource/ResourceServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/main/java/com/example/ticket_service/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceRessourc/src/main/java/com/resource/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/main/java/com/example/ticket_service/controller/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/src/main/java/com/ServiceTask/controller/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/main/java/com/example/ticket_service/enums/Status.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/main/java/com/example/ticket_service/exception/TaskNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/main/java/com/example/ticket_service/model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/src/main/java/com/ServiceTask/model/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/main/java/com/example/ticket_service/repository/TaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServiceTask/src/main/java/com/ServiceTask/repository/TaskRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/main/java/com/example/ticket_service/service/TaskService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/main/resources/creat_table_task_V1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConstructionXpert/ticket-service/src/test/java/com/example/ticket_service/TicketServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ConstructionXpert/ServerEureka/src/test/java/com/constructionxpert/eureka/EurekaServerApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2lKFHvYQtWcz6ypri6PbE8W6ky1" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.language",
-    "vue.rearranger.settings.migration": "true"
+    "settings.editor.selected.configurable": "configurable.group.language"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\ConstructionXpert-Services---Microservices\project-service" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Spring Boot.ProjectServiceApplication">
-    <configuration name="ProjectServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="project-service" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.project_service.ProjectServiceApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TicketServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="ticket-service" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ticket_service.TicketServiceApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="MicronautRunConfigurationType" />
+        <option value="QuarkusRunConfigurationType" />
+        <option value="SpringBootApplicationConfigurationType" />
       </set>
-    </attachedChunks>
+    </option>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="RunManager" selected="Spring Boot.ResourceServiceApplication">
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.constructionxpert.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ServiceRessourc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.resource.ResourceServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceGestionProjetsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ServiceProjets" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ConstructionXpert.ServiceProjets.ServiceGestionProjetsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ServiceTask" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ServiceTask.ServiceTaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="ad595db9-ceb3-40e1-b3ac-2e270029209f" name="Changes" comment="" />
-      <created>1724920776889</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1724920776889</updated>
-      <workItem from="1724920778580" duration="1926000" />
-    </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
 </project>
